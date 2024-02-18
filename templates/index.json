@@ -75,11 +75,11 @@
         "text_cr6mjw"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product_close_up_2.png",
+        "image": "shopify:\/\/shop_images\/section_three_background_image.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "top-right",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "image_behavior": "none",
