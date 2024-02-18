@@ -1,11 +1,15 @@
 .banner {
   display: flex;
   position: relative;
-  flex-direction: column;
+  flex-direction: column; 
 }
 
 .banner__box {
   text-align: center;
+}
+
+.image-banner-test{
+  border-radius:100px;
 }
 
 /* Needed for gradient continuity with or without animation, the transform scopes the gradient to its container which happens already when animation are turned on */
