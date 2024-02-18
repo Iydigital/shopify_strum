@@ -8,8 +8,11 @@
   text-align: center;
 }
 
+.image-banner-test{
+  margin-top: -100px;
+}
 .image-banner-test img{
-  border-radius:100px;
+  border-radius:100px 100px 0 0;
 }
 
 /* Needed for gradient continuity with or without animation, the transform scopes the gradient to its container which happens already when animation are turned on */
