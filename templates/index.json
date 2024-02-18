@@ -43,27 +43,35 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_PA9ppi": {
-      "type": "image-banner",
+    "image_banner_custom_test_bRxnwq": {
+      "type": "image-banner-custom-test",
       "blocks": {
-        "heading_kNXztz": {
+        "text_MFEmcj": {
+          "type": "text",
+          "settings": {
+            "text": "Better play",
+            "text_style": "body"
+          }
+        },
+        "heading_iGLFhq": {
           "type": "heading",
           "settings": {
-            "heading": "Lorem Ipsum",
+            "heading": "<strong>Lorem Ipsum<\/strong>",
             "heading_size": "h1"
           }
         },
-        "text_CjwLtn": {
+        "text_cr6mjw": {
           "type": "text",
           "settings": {
-            "text": "Lorem ipsum dolor sit amet consectetur. Tempor leo odio venenatis vel mauris pharetra mauris. Ullamcorper egestas pellentesque posuere netus mi. Cras in blandit tristique dictumst nisi at.",
+            "text": "Lorem ipsum dolor sit amet consectetur. Tempor leo odio venenatis vel mauris pharetra mauris. Ullamcorper egestas pellentesque posuere netus mi. Cras in blandit tristique dictumst nisi at.Vivamus varius quis etiam massa nibh tellus. Dui porttitor metus consequat purus massa a blandit quis elementum. Fusce quis eget dolor amet nisi vitae magnis nunc massa.",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_kNXztz",
-        "text_CjwLtn"
+        "text_MFEmcj",
+        "heading_iGLFhq",
+        "text_cr6mjw"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/product_close_up_2.png",
@@ -249,7 +257,7 @@
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "81508190-b024-4781-8a16-c09f891dc32e",
     "850623ec-439c-4029-b1e6-8296068f0364",
-    "image_banner_PA9ppi",
+    "image_banner_custom_test_bRxnwq",
     "featured-product",
     "rich-text-1",
     "multicolumn",
