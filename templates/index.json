@@ -113,7 +113,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/section_four_background_image.png",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -258,6 +258,9 @@
         "column",
         "column-1",
         "column-2"
+      ],
+      "custom_css": [
+        "section{margin-top:-100px;}"
       ],
       "settings": {
         "title": "",
