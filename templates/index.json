@@ -260,7 +260,7 @@
         "column-2"
       ],
       "custom_css": [
-        "section{margin-top:-100px;}"
+        "{margin-top: -100px;}"
       ],
       "settings": {
         "title": "",
