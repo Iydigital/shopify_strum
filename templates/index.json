@@ -282,6 +282,7 @@
     "1f0cd9a6-860f-4dd3-a857-ab5e4a06e354": {
       "type": "custom-liquid",
       "custom_css": [
+        "{border-radius:100px;}",
         ".custom-banner {display: flex; flex-direction: column; padding: 8% 8%; background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/waves_white_transparent.png?v=1697383096\"); background-size: cover;}",
         ".custom-banner h1 {font-size: 5em; line-height: 0.75em; text-align: center; padding: 0; margin: 0;}",
         ".custom-banner a {background: #fff; padding: 15px 20px; text-align: center; font-weight: bold; color: black; border-radius: 100px; text-decoration: none; text-transform: uppercase; margin: 40px auto 0;}"
