@@ -260,7 +260,7 @@
         "column-2"
       ],
       "custom_css": [
-        "{margin-top: -350px;}"
+        "{margin-top: -400px;}"
       ],
       "settings": {
         "title": "",
@@ -276,7 +276,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 68
+        "padding_bottom": 84
       }
     },
     "1f0cd9a6-860f-4dd3-a857-ab5e4a06e354": {
