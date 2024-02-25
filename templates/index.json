@@ -108,36 +108,6 @@
         "show_text_below": true
       }
     },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>PICKTWIST<\/p>"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Explore The Range",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "text",
-        "heading"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 20
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -243,7 +213,6 @@
     "81508190-b024-4781-8a16-c09f891dc32e",
     "image_banner_custom_test_bRxnwq",
     "image_banner_custom_test_APC6Ei",
-    "rich-text-1",
     "multicolumn",
     "image_banner_zhMHer"
   ]
