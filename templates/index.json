@@ -282,7 +282,7 @@
     "1f0cd9a6-860f-4dd3-a857-ab5e4a06e354": {
       "type": "custom-liquid",
       "custom_css": [
-        "{border-radius:100px;}",
+        "{border-radius: 100px;}",
         ".custom-banner {display: flex; flex-direction: column; padding: 8% 8%; background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/waves_white_transparent.png?v=1697383096\"); background-size: cover;}",
         ".custom-banner h1 {font-size: 5em; line-height: 0.75em; text-align: center; padding: 0; margin: 0;}",
         ".custom-banner a {background: #fff; padding: 15px 20px; text-align: center; font-weight: bold; color: black; border-radius: 100px; text-decoration: none; text-transform: uppercase; margin: 40px auto 0;}"
@@ -292,6 +292,46 @@
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "image_banner_zhMHer": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_AYEqGP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want to get involed?",
+            "heading_size": "h0"
+          }
+        },
+        "buttons_9KKm3V": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Support our kickstarter",
+            "button_link_1": "\/",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AYEqGP",
+        "buttons_9KKm3V"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/section_six_background_image.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     }
   },
@@ -304,6 +344,7 @@
     "featured-product",
     "rich-text-1",
     "multicolumn",
-    "1f0cd9a6-860f-4dd3-a857-ab5e4a06e354"
+    "1f0cd9a6-860f-4dd3-a857-ab5e4a06e354",
+    "image_banner_zhMHer"
   ]
 }
