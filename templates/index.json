@@ -167,6 +167,33 @@
         "padding_bottom": 96
       }
     },
+    "newsletter_mA7FTj": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_CCczbT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up to our mailing list for the latest updates",
+            "heading_size": "h0"
+          }
+        },
+        "email_form_yw6hiY": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_CCczbT",
+        "email_form_yw6hiY"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 96
+      }
+    },
     "image_banner_zhMHer": {
       "type": "image-banner",
       "blocks": {
@@ -217,6 +244,7 @@
     "image_banner_custom_test_bRxnwq",
     "image_banner_custom_test_APC6Ei",
     "multicolumn",
+    "newsletter_mA7FTj",
     "image_banner_zhMHer"
   ]
 }
