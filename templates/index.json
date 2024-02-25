@@ -164,7 +164,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 84
+        "padding_bottom": 96
       }
     },
     "image_banner_zhMHer": {
@@ -194,7 +194,7 @@
         "buttons_9KKm3V"
       ],
       "custom_css": [
-        "{margin-top:-50px;}"
+        "{margin-top: -50px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/section_six_background_image.png",
