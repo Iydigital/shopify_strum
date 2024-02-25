@@ -28,22 +28,6 @@
         "padding_bottom": 0
       }
     },
-    "850623ec-439c-4029-b1e6-8296068f0364": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "custom_css": [
-        ".custom-section {display: flex; flex-direction: column; padding: 5% 10% 40% 10%; background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/product_close_up_2.png?v=1697383097\"); background-size: cover; background-position: bottom;}",
-        "custom-section h2 {font-size: 7em; line-height: 0.8em; text-align: left; text-transform: uppercase; padding: 0; margin: 0;}",
-        ".custom-section h6 {font-size: 1.4em; line-height: 1em; text-align: left; text-transform: uppercase; padding: 0; margin: 0;}",
-        ".custom-section p {line-height: 1.4em;}"
-      ],
-      "settings": {
-        "custom_liquid": "<div class=\"custom-section\">\n<h6>Better play<\/h6>\n<h2>Lorem Ipsum<\/h2>\n<p>Lorem ipsum dolor sit amet consectetur. Tempor leo odio venenatis vel mauris pharetra mauris. Ullamcorper egestas pellentesque posuere netus mi. Cras in blandit tristique dictumst nisi at.<\/p>\n<\/div>\n<\/div>",
-        "color_scheme": "inverse",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_banner_custom_test_bRxnwq": {
       "type": "image-banner-custom-test",
       "blocks": {
@@ -213,22 +197,6 @@
         "padding_bottom": 84
       }
     },
-    "1f0cd9a6-860f-4dd3-a857-ab5e4a06e354": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "custom_css": [
-        "{border-radius: 100px;}",
-        ".custom-banner {display: flex; flex-direction: column; padding: 8% 8%; background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/waves_white_transparent.png?v=1697383096\"); background-size: cover;}",
-        ".custom-banner h1 {font-size: 5em; line-height: 0.75em; text-align: center; padding: 0; margin: 0;}",
-        ".custom-banner a {background: #fff; padding: 15px 20px; text-align: center; font-weight: bold; color: black; border-radius: 100px; text-decoration: none; text-transform: uppercase; margin: 40px auto 0;}"
-      ],
-      "settings": {
-        "custom_liquid": "<div class=\"custom-banner\">\n<h1>Want to get involved?<\/h1>\n<a href=\"\">Support our KickStarter<\/a>\n<\/div>",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_banner_zhMHer": {
       "type": "image-banner",
       "blocks": {
@@ -273,12 +241,10 @@
   "order": [
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "81508190-b024-4781-8a16-c09f891dc32e",
-    "850623ec-439c-4029-b1e6-8296068f0364",
     "image_banner_custom_test_bRxnwq",
     "image_banner_custom_test_APC6Ei",
     "rich-text-1",
     "multicolumn",
-    "1f0cd9a6-860f-4dd3-a857-ab5e4a06e354",
     "image_banner_zhMHer"
   ]
 }
