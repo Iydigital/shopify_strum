@@ -94,6 +94,9 @@
         "text_bKkCxJ",
         "heading_DnqrRw"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/section_four_background_image.png",
         "image_overlay_opacity": 0,
@@ -148,7 +151,7 @@
         "column-2"
       ],
       "custom_css": [
-        "{margin-top: -420px;}"
+        "{margin-top: -45vh;}"
       ],
       "settings": {
         "title": "",
