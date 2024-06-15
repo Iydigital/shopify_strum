@@ -151,7 +151,8 @@
         "column-2"
       ],
       "custom_css": [
-        "{margin-top: -45vh;}"
+        "{margin-top: -45vh;}",
+        "@media screen and (max-width: 768px) {{margin-top: 0; }}"
       ],
       "settings": {
         "title": "",
