@@ -160,7 +160,8 @@
         "column-2"
       ],
       "custom_css": [
-        "{margin-top: -42vh;}",
+        "{margin-top: -45vh;}",
+        "@media screen and (max-width: 1440px) {{margin-top: -35vh; }}",
         "@media screen and (max-width: 768px) {{margin-top: 0; }}"
       ],
       "settings": {
