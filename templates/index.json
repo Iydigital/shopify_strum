@@ -12,8 +12,8 @@
     "ceb82b25-856d-41be-9c75-a5418f4d61fb": {
       "type": "custom-liquid",
       "custom_css": [
-        ".custom-header{display: flex; flex-direction: column; padding: 12% 10%; background-image:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/waves_white_transparent.png?v=1697383096\"); background-size: cover;}",
-        ".custom-header h1{font-size: 8em; line-height: 0.85em; text-align: center; padding: 0; margin: 0;}",
+        ".custom-header {display: flex; flex-direction: column; padding: 12% 10%; background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/waves_white_transparent.png?v=1697383096\"); background-size: cover;}",
+        ".custom-header h1 {font-size: 8em; line-height: 0.85em; text-align: center; padding: 0; margin: 0;}",
         ".custom-header a {background: #fff; padding: 15px 20px; text-align: center; font-weight: bold; color: black; border-radius: 100px; text-decoration: none; text-transform: uppercase; margin: 40px auto 0;}"
       ],
       "settings": {
@@ -160,7 +160,7 @@
         "column-2"
       ],
       "custom_css": [
-        "{margin-top: -45vh;}",
+        "{margin-top: -42vh;}",
         "@media screen and (max-width: 768px) {{margin-top: 0; }}"
       ],
       "settings": {
