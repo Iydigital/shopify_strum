@@ -257,7 +257,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 
 @font-face {
   font-family: "Biondi Sans Bold Italic";
-  src: url("{{ 'BiondiSansRg-BoldItalic.otf' | asset_url }}") format("opentype");
+  src: url("https://cdn.shopify.com/s/files/1/0806/4434/2059/files/BiondiSansRg-BoldItalic.otf?v=1719600677") format("opentype");
 }
 
 .text-body {
