@@ -255,6 +255,11 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   background-color: rgba(var(--color-foreground), 0.2);
 }
 
+@font-face {
+  font-family: "Biondi Sans Bold Italic";
+  src: url("{{ 'BiondiSansRg-BoldItalic.otf' | asset_url }}") format("opentype");
+}
+
 .text-body {
   font-size: 1.5rem;
   letter-spacing: 0.06rem;
@@ -275,7 +280,8 @@ h5,
 .h3,
 .h4,
 .h5 {
-  font-family: var(--font-heading-family);
+  /* font-family: var(--font-heading-family); */
+  font-family: 'Biondi Sans Bold Italic';
   font-style: var(--font-heading-style);
   font-weight: var(--font-heading-weight);
   letter-spacing: calc(var(--font-heading-scale) * 0.06rem);
