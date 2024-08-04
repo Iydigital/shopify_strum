@@ -17,7 +17,7 @@
         ".custom-header a {background: #fff; padding: 15px 20px; text-align: center; font-weight: bold; color: black; border-radius: 100px; text-decoration: none; text-transform: uppercase; margin: 40px auto 0;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<h1>The Better Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "custom_liquid": "<video id=\"video-hero\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" autoplay loop playsinline muted><\/video>\n\n<div class=\"custom-header\">\n<h1>The Better Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 0,
         "padding_bottom": 0
