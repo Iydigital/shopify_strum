@@ -272,48 +272,31 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_q6DpQ4": {
+        "slide_3RCLUf": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/waves_white_transparent.png",
+            "heading": "Since I tried these, I can’t play with normal picks anymore",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "Customer Review, John Smith",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_VULqfk": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "slide_BRn4EF",
-        "slide_q6DpQ4",
-        "slide_VULqfk"
+        "slide_3RCLUf"
       ],
       "custom_css": [
-        "slideshow-component{background:black;}"
+        "slideshow-component {background: black;}"
       ],
       "settings": {
         "layout": "full_bleed",
