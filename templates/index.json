@@ -310,22 +310,6 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
-    },
-    "video_DwCgfx": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/1 Pick Spinning.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
@@ -336,7 +320,6 @@
     "multicolumn",
     "newsletter_mA7FTj",
     "image_banner_zhMHer",
-    "slideshow_thT8YR",
-    "video_DwCgfx"
+    "slideshow_thT8YR"
   ]
 }
