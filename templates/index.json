@@ -27,6 +27,7 @@
     },
     "81508190-b024-4781-8a16-c09f891dc32e": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         ".custom-section {display: flex; flex-direction: column; padding: 5% 10% 35% 10%; background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/product_close_up_1.png?v=1697383097\"); background-size: cover; background-position: center;}",
         ".custom-section h2 {font-size: 7em; line-height: 0.8em; text-align: left; text-transform: uppercase; padding: 0; margin: 0;}",
@@ -39,36 +40,44 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_custom_test_bRxnwq": {
+    "image_banner_custom_test_TNbHVG": {
       "type": "image-banner-custom-test",
       "blocks": {
-        "text_MFEmcj": {
-          "type": "text",
-          "settings": {
-            "text": "Better play",
-            "text_style": "body"
-          }
-        },
-        "heading_iGLFhq": {
+        "heading_dbRmzV": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Lorem Ipsum<\/strong>",
+            "heading": "“Finally a pick that feels natural!”",
             "heading_size": "h1"
           }
         },
-        "text_cr6mjw": {
+        "text_NVQHca": {
           "type": "text",
           "settings": {
-            "text": "Lorem ipsum dolor sit amet consectetur. Tempor leo odio venenatis vel mauris pharetra mauris. Ullamcorper egestas pellentesque posuere netus mi. Cras in blandit tristique dictumst nisi at.Vivamus varius quis etiam massa nibh tellus. Dui porttitor metus consequat purus massa a blandit quis elementum. Fusce quis eget dolor amet nisi vitae magnis nunc massa.",
-            "text_style": "body"
+            "text": "<em><strong>Timo Somers<\/strong><\/em>",
+            "text_style": "caption-with-letter-spacing"
           }
         }
       },
       "block_order": [
-        "text_MFEmcj",
-        "heading_iGLFhq",
-        "text_cr6mjw"
+        "heading_dbRmzV",
+        "text_NVQHca"
       ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/timo-somers-testimonial-background-image.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_custom_test_bRxnwq": {
+      "type": "image-banner-custom-test",
       "settings": {
         "image": "shopify:\/\/shop_images\/section_three_background_image.png",
         "image_overlay_opacity": 0,
@@ -315,6 +324,7 @@
   "order": [
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "81508190-b024-4781-8a16-c09f891dc32e",
+    "image_banner_custom_test_TNbHVG",
     "image_banner_custom_test_bRxnwq",
     "image_banner_custom_test_APC6Ei",
     "multicolumn",
