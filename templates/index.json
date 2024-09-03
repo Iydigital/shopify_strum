@@ -19,7 +19,7 @@
         ".gradient:has(.custom-header) {background: none !important;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" autoplay loop playsinline muted><\/video>\n<h1>The Better Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" autoplay loop playsinline muted><\/video>\n<h1>The Better <br\/>Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 0,
         "padding_bottom": 0
