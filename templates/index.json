@@ -44,7 +44,7 @@
         "text_FqKgXe"
       ],
       "custom_css": [
-        ".banner__content{padding:16rem 0;}"
+        ".banner__content {padding: 16rem 0;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/timo-somers-testimonial-background-image.jpg",
@@ -62,6 +62,7 @@
     },
     "video_AAT6yJ": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Our Kickstarter Campaign",
         "heading_size": "h1",
@@ -72,6 +73,15 @@
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "custom_liquid_xDWdm3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"custom-video-block\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\"><\/video>\n<h2>The Better <br\/>Way To Play.<\/h2>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_D7QeHt": {
@@ -92,6 +102,7 @@
       "block_order": [
         "button_mACrx4"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -296,6 +307,7 @@
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "image_banner_custom_UD73zY",
     "video_AAT6yJ",
+    "custom_liquid_xDWdm3",
     "rich_text_D7QeHt",
     "multicolumn",
     "newsletter_mA7FTj",
