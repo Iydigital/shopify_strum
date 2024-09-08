@@ -21,6 +21,42 @@
         "padding_bottom": 0
       }
     },
+    "image_banner_custom_UD73zY": {
+      "type": "image-banner-custom",
+      "blocks": {
+        "heading_BEbK6T": {
+          "type": "heading",
+          "settings": {
+            "heading": "“Finally a pick that feels natural!”",
+            "heading_size": "h1"
+          }
+        },
+        "text_FqKgXe": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>TIMO SOMERS<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BEbK6T",
+        "text_FqKgXe"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/timo-somers-testimonial-background-image.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "video_AAT6yJ": {
       "type": "video",
       "settings": {
@@ -32,7 +68,7 @@
         "full_width": false,
         "color_scheme": "inverse",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 80
       }
     },
     "multicolumn": {
@@ -224,58 +260,15 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
-    },
-    "image_banner_custom_UD73zY": {
-      "type": "image-banner-custom",
-      "blocks": {
-        "text_VfnxBJ": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "heading_BEbK6T": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_FqKgXe": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "text_VfnxBJ",
-        "heading_BEbK6T",
-        "text_FqKgXe"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
+    "image_banner_custom_UD73zY",
     "video_AAT6yJ",
     "multicolumn",
     "newsletter_mA7FTj",
     "image_banner_zhMHer",
-    "slideshow_thT8YR",
-    "image_banner_custom_UD73zY"
+    "slideshow_thT8YR"
   ]
 }
