@@ -3523,6 +3523,8 @@ details-disclosure>details {
 }
 
 /* Custom CSS */
+
+/* Hero */
 .custom-header{
   display: flex; 
   flex-direction: column;
@@ -3562,3 +3564,6 @@ details-disclosure>details {
 .gradient:has(.custom-header){
   background: none !important;
 }
+
+
+/* Testimonial */
