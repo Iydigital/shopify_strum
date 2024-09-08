@@ -78,7 +78,7 @@
     "custom_liquid_xDWdm3": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"custom-video-block\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\"><\/video>\n<h2>The Better <br\/>Way To Play.<\/h2>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "custom_liquid": "<div class=\"custom-video-block\">\n<video width=\"1920\" height=\"1080\" autoplay>\n  <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" type=\"video\/mp4\">\n<\/video>\n<h2>The Better <br\/>Way To Play.<\/h2>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 36,
         "padding_bottom": 36
