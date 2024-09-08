@@ -3586,12 +3586,13 @@ div.explore-picks{
   background-size:cover;
 }
 div.explore-picks h2{font-size:5em;}
-div.explore-picks h3{font-size:3.4em;}
+div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;}
 .explore-picks .pick-product{
   display:flex;
   flex-direction: row;
   align-items:center;
 }
+.explore-picks .pick-product.manny{flex-direction: row-reverse;}
 .explore-picks .pick-product img{
   width:780px;
 }
