@@ -62,6 +62,9 @@
     },
     "video_AAT6yJ": {
       "type": "video",
+      "custom_css": [
+        ".video-section__media.media-fit-cover video{left:0;}"
+      ],
       "settings": {
         "heading": "Our Kickstarter Campaign",
         "heading_size": "h1",
@@ -77,6 +80,7 @@
     },
     "custom_liquid_xDWdm3": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"custom-video-block\">\n<!--<video width=\"1920\" height=\"1080\" autoplay>\n  <source src=\"https:\/\/player.vimeo.com\/video\/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" type=\"video\/mp4\">\n<\/video>-->\n<iframe src=\"https:\/\/player.vimeo.com\/video\/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"fullscreen; picture-in-picture; clipboard-write\" style=\"width:100vw;height:auto;\" title=\"PICKTWIST - Full - SUBENG - 4K\"><\/iframe><script src=\"https:\/\/player.vimeo.com\/api\/player.js\"><\/script>\n<h2>The Better <br\/>Way To Play.<\/h2>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
