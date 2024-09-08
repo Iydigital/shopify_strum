@@ -120,7 +120,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks<\/h2>\n<div class=\"pick-product\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_manny.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<\/div>",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "padding_top": 40,
         "padding_bottom": 52
       }
