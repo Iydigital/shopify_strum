@@ -3579,16 +3579,19 @@ details-disclosure>details {
 
 /* Explore Our Picks */
 div.explore-picks{
+  padding:5em;
   text-align:center;
   background:url('https://cdn.shopify.com/s/files/1/0806/4434/2059/files/waves_white_transparent.png?v=1697383096');
   background-position:center;
   background-size:cover;
 }
+div.explore-picks h2{font-size:5em;}
+div.explore-picks h3{font-size:3.4em;}
 .explore-picks .pick-product{
   display:flex;
   flex-direction: row;
-  gap:-20px;
+  align-items:center;
 }
 .explore-picks .pick-product img{
-  width:4em;
+  width:780px;
 }
