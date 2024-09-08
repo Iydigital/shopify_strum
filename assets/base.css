@@ -3567,3 +3567,11 @@ details-disclosure>details {
 
 
 /* Testimonial */
+
+
+/* Video */
+.video-section{
+  text-align: center;
+  display: flex;
+  flex-direction: column-reverse;
+}
