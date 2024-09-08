@@ -43,6 +43,9 @@
         "heading_BEbK6T",
         "text_FqKgXe"
       ],
+      "custom_css": [
+        ".banner__content {padding: 16rem 0;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/timo-somers-testimonial-background-image.jpg",
         "image_overlay_opacity": 0,
@@ -59,78 +62,67 @@
     },
     "video_AAT6yJ": {
       "type": "video",
+      "custom_css": [
+        ".video-section__media.media-fit-cover video {left: 0;}"
+      ],
       "settings": {
         "heading": "Our Kickstarter Campaign",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify:\/\/files\/videos\/picktwist_KS_video_01.mp4",
+        "video_url": "",
         "description": "",
         "full_width": false,
-        "color_scheme": "inverse",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 36,
-        "padding_bottom": 80
+        "padding_bottom": 0
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "custom_liquid_xDWdm3": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"custom-video-block\">\n<!--<video width=\"1920\" height=\"1080\" autoplay>\n  <source src=\"https:\/\/player.vimeo.com\/video\/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" type=\"video\/mp4\">\n<\/video>-->\n<iframe src=\"https:\/\/player.vimeo.com\/video\/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"fullscreen; picture-in-picture; clipboard-write\" style=\"width:100vw;height:auto;\" title=\"PICKTWIST - Full - SUBENG - 4K\"><\/iframe><script src=\"https:\/\/player.vimeo.com\/api\/player.js\"><\/script>\n<h2>The Better <br\/>Way To Play.<\/h2>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_D7QeHt": {
+      "type": "rich-text",
       "blocks": {
-        "column": {
-          "type": "column",
+        "button_mACrx4": {
+          "type": "button",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Product_01.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Product_02.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Product_03.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "button_label": "Support our Kickstarter",
+            "button_link": "#",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column",
-        "column-1",
-        "column-2"
+        "button_mACrx4"
       ],
       "disabled": true,
-      "custom_css": [
-        "{margin-top: -45vh;}",
-        "@media screen and (max-width: 1440px) {{margin-top: -35vh; }}",
-        "@media screen and (max-width: 768px) {{margin-top: 0; }}"
-      ],
       "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "inverse",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 96
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "custom_liquid_YWiGQX": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks<\/h2>\n<div class=\"pick-product\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_manny.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "newsletter_mA7FTj": {
@@ -266,7 +258,9 @@
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "image_banner_custom_UD73zY",
     "video_AAT6yJ",
-    "multicolumn",
+    "custom_liquid_xDWdm3",
+    "rich_text_D7QeHt",
+    "custom_liquid_YWiGQX",
     "newsletter_mA7FTj",
     "image_banner_zhMHer",
     "slideshow_thT8YR"
