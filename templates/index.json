@@ -119,10 +119,10 @@
     "custom_liquid_YWiGQX": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks<\/h2>\n<div class=\"pick-product\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_manny.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks<\/h2>\n<div class=\"pick-product pick-product-timo\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_timo.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-manny\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_manny.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-slap\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_slap.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<\/div>",
+        "color_scheme": "inverse",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "newsletter_mA7FTj": {
