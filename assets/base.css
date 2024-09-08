@@ -3554,7 +3554,7 @@ details-disclosure>details {
 
 .custom-header video{
   object-fit: cover; 
-  width: 100vw; 
+  width: 100%; 
   height: 100vh; 
   position: absolute; 
   top: 0; 
@@ -3574,4 +3574,21 @@ details-disclosure>details {
   text-align: center;
   display: flex;
   flex-direction: column-reverse;
+  gap:16px;
+}
+
+/* Explore Our Picks */
+div.explore-picks{
+  text-align:center;
+  background:url('https://cdn.shopify.com/s/files/1/0806/4434/2059/files/waves_white_transparent.png?v=1697383096');
+  background-position:center;
+  background-size:cover;
+}
+.explore-picks .pick-product{
+  display:flex;
+  flex-direction: row;
+  gap:-20px;
+}
+.explore-picks .pick-product img{
+  width:4em;
 }
