@@ -12,11 +12,7 @@
     "ceb82b25-856d-41be-9c75-a5418f4d61fb": {
       "type": "custom-liquid",
       "custom_css": [
-        ".custom-header{display: flex; flex-direction: column; padding: 16% 10%;}",
-        ".custom-header h1 {font-size: 8em; line-height: 0.85em; text-align: left; padding: 0; margin: 0;}",
-        ".custom-header a{width: background: #fff; padding: 15px 20px; text-align: center; font-weight: bold; color: black; border-radius: 100px; text-decoration: none; text-transform: uppercase; margin-top: 40px;}",
-        ".custom-header video {object-fit: cover; width: 100vw; height: 100vh; position: absolute; top: 0; left: 0; z-index: -1;}",
-        ".gradient:has(.custom-header) {background: none !important;}"
+
       ],
       "settings": {
         "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" autoplay loop playsinline muted><\/video>\n<h1>The Better <br\/>Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
