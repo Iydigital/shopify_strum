@@ -15,7 +15,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" autoplay loop playsinline muted><\/video>\n<h1>The Better <br\/>Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" autoplay loop playsinline muted><\/video>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"\/>\n<br\/>\n<h1>The Better <br\/>Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 0,
         "padding_bottom": 0
@@ -119,80 +119,10 @@
     "custom_liquid_YWiGQX": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks<\/h2>\n<div class=\"pick-product pick-product-timo\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_timo.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-manny\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_manny.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-slap\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_slap.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<\/div>",
+        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks<\/h2>\n<div class=\"pick-product pick-product-timo\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_timo.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-manny\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_manny.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Manny Lebowski signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-slap\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_slap.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Slap<\/h3>\n<\/div>\n<\/div>",
         "color_scheme": "inverse",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "newsletter_mA7FTj": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_CCczbT": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sign up to our mailing list for the latest updates",
-            "heading_size": "h0"
-          }
-        },
-        "email_form_yw6hiY": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_CCczbT",
-        "email_form_yw6hiY"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 96
-      }
-    },
-    "image_banner_zhMHer": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_AYEqGP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Want to get involved?",
-            "heading_size": "h0"
-          }
-        },
-        "buttons_9KKm3V": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Support our kickstarter",
-            "button_link_1": "\/",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_AYEqGP",
-        "buttons_9KKm3V"
-      ],
-      "custom_css": [
-        "{margin-top: -64px;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/section_six_background_image.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
       }
     },
     "slideshow_thT8YR": {
@@ -252,6 +182,76 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "newsletter_mA7FTj": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_CCczbT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up to our mailing list for the latest updates",
+            "heading_size": "h0"
+          }
+        },
+        "email_form_yw6hiY": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_CCczbT",
+        "email_form_yw6hiY"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "image_banner_zhMHer": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_AYEqGP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want to get involved?",
+            "heading_size": "h0"
+          }
+        },
+        "buttons_9KKm3V": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Support our kickstarter",
+            "button_link_1": "\/",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AYEqGP",
+        "buttons_9KKm3V"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/section_six_background_image.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
     }
   },
   "order": [
@@ -261,8 +261,8 @@
     "custom_liquid_xDWdm3",
     "rich_text_D7QeHt",
     "custom_liquid_YWiGQX",
+    "slideshow_thT8YR",
     "newsletter_mA7FTj",
-    "image_banner_zhMHer",
-    "slideshow_thT8YR"
+    "image_banner_zhMHer"
   ]
 }
