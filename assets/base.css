@@ -3575,6 +3575,13 @@ details-disclosure>details {
 /* Testimonials */
 #Banner-template--22168864784683__image_banner_custom_UD73zY .media>img{object-position: top;}
 
+@media screen and (max-width:500px) {
+  #Banner-template--22168864784683__image_banner_custom_UD73zY .banner__content{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
+  }
+}
+
+
 /* Video */
 .video-section{
   text-align: center;
