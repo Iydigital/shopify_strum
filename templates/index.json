@@ -44,7 +44,8 @@
         "text_FqKgXe"
       ],
       "custom_css": [
-        ".banner__content {padding: 16rem 0;}"
+        ".banner__content {padding: 16rem 0;}",
+        "@media screen and (max-width: 500px) {.banner__content {padding: 12rem 0;}}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/timo-somers-testimonial-background-image.jpg",
