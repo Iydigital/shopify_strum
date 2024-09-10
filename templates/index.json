@@ -237,12 +237,12 @@
         "buttons_9KKm3V"
       ],
       "custom_css": [
-
+        "{background-color: #00b2a9;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/section_six_background_image.png",
+        "image": "shopify:\/\/shop_images\/waves_white_transparent_5percent.png",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
