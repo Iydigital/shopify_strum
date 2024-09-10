@@ -3632,8 +3632,8 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
   div.explore-picks{padding:2em;}
   div.explore-picks h2 {font-size:3.4em;}
   div.explore-picks h3{font-size:2.1em;}
-  .explore-picks .pick-product img{width:480px;}
-  .explore-picks .pick-product{flex-direction: column-reverse;}
+  .explore-picks .pick-product img{width:100%;}
+  .explore-picks .pick-product,.explore-picks .pick-product.pick-product-manny{flex-direction: column-reverse;}
   .explore-picks .pick-product.pick-product-manny{margin:-20px 0;}
 }
 
@@ -3677,5 +3677,5 @@ form .field:before, form .field:after{content:none;}
 @media screen and (max-width:500px) {
   .newsletter .inline-richtext{font-size:2.8em;}
   .newsletter-form__field-wrapper input.field__input{font-size:1.3em;padding:1.4em;}
-  form .field label.field__label{font-size:3rem;}
+  form .field label.field__label{font-size:3rem;line-height:1.15;}
 }
