@@ -3617,5 +3617,30 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
 
 /* Testimonials */
 .slideshow__controls{background:#00B2A9;}
-.slider-button .icon{height:1.2rem;}
-.slider-counter__link--dots .dot{width:1.5rem;height:1.5rem;}
+.slider-button--prev .icon, .slider-button--next .icon{height:1.2rem;}
+.slider-counter.caption{font-size:1.7rem;}
+
+/* Newsletter Sign Up */
+form.newsletter-form, form .newsletter__wrapper .newsletter-form__field-wrapper{max-width:100%;}
+.newsletter-form__field-wrapper input.field__input{
+  border-radius: 100px;
+  background: white;
+  color:black;
+  padding: 40px;
+}
+form .field label.field__label{
+  font-family: Biondi Sans Bold Italic;
+  text-transform:uppercase;
+  color:rgba(0, 0, 0, 0.3);
+  font-size:4.3rem;
+  line-height:1.6;
+}
+form .field .newsletter-form__button:not(:focus-visible):not(.focused){
+  background:white;
+  color:black;
+  border:2px solid #00B2A9;
+  border-radius: 100px;
+  width:82px;
+}
+form .field .newsletter-form__button .icon{width:2.5rem;}
+form .field:before, form .field:after{content:none;}
