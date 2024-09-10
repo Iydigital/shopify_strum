@@ -56,8 +56,8 @@
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "video_AAT6yJ": {
