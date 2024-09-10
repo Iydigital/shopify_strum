@@ -3566,7 +3566,7 @@ details-disclosure>details {
 }
 
 
-/* Testimonial */
+/* Testimonials */
 
 
 /* Video */
@@ -3603,7 +3603,7 @@ div.explore-picks{
   background-position:center;
   background-size:cover;
 }
-div.explore-picks h2{font-size:5em;}
+div.explore-picks h2{font-size:5em;margin:0;}
 div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:14em;margin:0 auto;}
 .explore-picks .pick-product{
   display:flex;
@@ -3614,3 +3614,8 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
 .explore-picks .pick-product img{
   width:780px;
 }
+
+/* Testimonials */
+.slideshow__controls{background:#00B2A9;}
+.slider-button .icon{height:1.2rem;}
+.slider-counter__link--dots .dot{width:1.5rem;height:1.5rem;}
