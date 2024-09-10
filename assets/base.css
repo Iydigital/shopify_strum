@@ -3532,8 +3532,8 @@ details-disclosure>details {
 }
 
 .custom-header h1 {
-  font-size: 8em;
-  line-height: 0.85em; 
+  font-size: 6.6em;
+  line-height: 0.9em; 
   text-align: left; 
   padding: 0; 
   margin: 0;
@@ -3565,9 +3565,15 @@ details-disclosure>details {
   background: none !important;
 }
 
+@media screen and (max-width:500px) {
+  .custom-header h1 {
+    font-size:4em;
+  }
+}
+
 
 /* Testimonials */
-
+#Banner-template--22168864784683__image_banner_custom_UD73zY .media>img{object-position: top;}
 
 /* Video */
 .video-section{
@@ -3594,6 +3600,13 @@ details-disclosure>details {
   margin-top:-120px;
 }
 
+@media screen and (max-width:500px) {
+  #shopify-section-template--22168864784683__video_AAT6yJ .color-scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec:after{
+    height:240px;
+  }
+  
+}
+
 
 /* Explore Our Picks */
 div.explore-picks{
@@ -3615,10 +3628,21 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
   width:780px;
 }
 
+@media screen and (max-width:500px) {
+  div.explore-picks{padding:2em;}
+  div.explore-picks h2 {font-size:3.4em;}
+  div.explore-picks h3{font-size:2.1em;}
+  .explore-picks .pick-product img{width:480px;}
+  .explore-picks .pick-product{flex-direction: column-reverse;}
+  .explore-picks .pick-product.pick-product-manny{margin:-20px 0;}
+}
+
 /* Testimonials */
 .slideshow__controls{background:#00B2A9;}
 .slider-button.slider-button--prev .icon, .slider-button.slider-button--next .icon{height:1.2rem;}
 .slider-counter.caption{font-size:1.7rem;}
+
+
 
 /* Newsletter Sign Up */
 form.newsletter-form, form.newsletter-form .newsletter-form__field-wrapper{max-width:100%;}
@@ -3649,3 +3673,9 @@ form .field:before, form .field:after{content:none;}
 
 .banner .banner__content .button{background:black;border:2px solid white;border-radius:100px;}
 .banner .banner__content .button:before, .banner .banner__content .button:after{content:none;}
+
+@media screen and (max-width:500px) {
+  .newsletter .inline-richtext{font-size:2.8em;}
+  .newsletter-form__field-wrapper input.field__input{font-size:1.3em;padding:1.4em;}
+  form .field label.field__label{font-size:3rem;}
+}
