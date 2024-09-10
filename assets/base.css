@@ -3621,8 +3621,10 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
 .slider-counter.caption{font-size:1.7rem;}
 
 /* Newsletter Sign Up */
-form.newsletter-form, form .newsletter__wrapper .newsletter-form__field-wrapper{max-width:100%;}
+form.newsletter-form, form .newsletter-form__field-wrapper{max-width:100%;}
 .newsletter-form__field-wrapper input.field__input{
+  font-family: Biondi Sans Bold Italic;
+  font-size: 2em;
   border-radius: 100px;
   background: white;
   color:black;
