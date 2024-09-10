@@ -44,7 +44,8 @@
         "text_FqKgXe"
       ],
       "custom_css": [
-        ".banner__content {padding: 16rem 0;}"
+        ".banner__content {padding: 16rem 0;}",
+        "@media screen and (max-width: 500px) {.banner__content {padding: 12rem 0;}}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/timo-somers-testimonial-background-image.jpg",
@@ -56,8 +57,8 @@
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "video_AAT6yJ": {
