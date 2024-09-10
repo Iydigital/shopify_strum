@@ -3566,9 +3566,10 @@ details-disclosure>details {
 }
 
 @media screen and (max-width:500px) {
-  .custom-header h1 {
-    font-size:4em;
-  }
+  .custom-header h1 {font-size:4em;}
+  .custom-header{padding:260px 10% 40px;}
+  .custom-header video{object-position:-940px -170px;}
+  .custom-header video:after{width:100%;height:100%;background:rgba(0, 0, 0, 0.15);position:absolute;top:0;left:0;}
 }
 
 
