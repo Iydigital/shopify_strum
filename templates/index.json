@@ -15,7 +15,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6844db91219343779e09cc86574b86bf.mp4\" autoplay loop playsinline muted><\/video>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"\/>\n<br\/>\n<h1>The Better <br\/>Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted><\/video>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"\/>\n<br\/>\n<h1>The Better <br\/>Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 0,
         "padding_bottom": 0
