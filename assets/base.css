@@ -3577,13 +3577,13 @@ details-disclosure>details {
   gap:16px;
 }
 
-#shopify-section-template--22168864784683__video_AAT6yJ{
+#shopify-section-template--22168864784683__video_AAT6yJ div{
   background:url('https://cdn.shopify.com/s/files/1/0806/4434/2059/files/waves_white_transparent_5percent.png?v=1725824767');
   background-position:center;
   background-size:cover;
   background-color: #00B2A9;
 }
-#shopify-section-template--22168864784683__video_AAT6yJ:after{
+#shopify-section-template--22168864784683__video_AAT6yJ div:after{
   content:'';
   display: block;
   width:100%;
