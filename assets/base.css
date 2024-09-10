@@ -3577,14 +3577,15 @@ details-disclosure>details {
   gap:16px;
 }
 
-.color-scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec{
+#shopify-section-template--22168864784683__video_AAT6yJ{
   background:url('https://cdn.shopify.com/s/files/1/0806/4434/2059/files/waves_white_transparent_5percent.png?v=1725824767');
   background-position:center;
   background-size:cover;
   background-color: #00B2A9;
 }
-.color-scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec:after{
+#shopify-section-template--22168864784683__video_AAT6yJ:after{
   content:'';
+  display: block;
   width:100%;
   height:620px;
   background:url('https://cdn.shopify.com/s/files/1/0806/4434/2059/files/product_close_up_2.png?v=1697383097');
