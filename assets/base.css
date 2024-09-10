@@ -3648,3 +3648,4 @@ form .field .newsletter-form__button .icon{width:2.5rem;}
 form .field:before, form .field:after{content:none;}
 
 .banner .banner__content .button{background:black;border:2px solid white;border-radius:100px;}
+.banner .banner__content .button:before, .banner .banner__content .button:after{content:none;}
