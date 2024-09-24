@@ -3650,7 +3650,7 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
 .slider-counter.caption{font-size:1.7rem;}
 
 @media screen and (max-width:500px) {
-  .slideshow_text-wrapper h2{
+  slideshow__text-wrapper h2.h1{
     font-size:2.4em;
   }
 }
