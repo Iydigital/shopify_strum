@@ -265,6 +265,20 @@
       if (Shopify.designMode) {
         document.documentElement.classList.add('shopify-design-mode');
       }
+
+      function addAnchorToIcons(){
+        var $icons = document.querySelectorAll(`.list-social__item a`);
+
+        if (!$icons){
+          return;
+        }
+
+        for (var each of $icons){
+         each.setAttribute("target", "_blank");
+        }
+      }
+
+      addAnchorToIcons();
     </script>
   </head>
 
