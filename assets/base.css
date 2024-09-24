@@ -3637,7 +3637,7 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
 
 @media screen and (max-width:500px) {
   div.explore-picks{padding:2em;}
-  div.explore-picks h2 {font-size:3.4em;}
+  div.explore-picks h2 {font-size:3.2em;line-height: 1.1;}
   div.explore-picks h3{font-size:2.1em;}
   .explore-picks .pick-product img{width:100%;}
   .explore-picks .pick-product,.explore-picks .pick-product.pick-product-manny{flex-direction: column-reverse;}
@@ -3649,6 +3649,11 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
 .slider-button.slider-button--prev .icon, .slider-button.slider-button--next .icon{height:1.2rem;}
 .slider-counter.caption{font-size:1.7rem;}
 
+@media screen and (max-width:500px) {
+  .slideshow_text-wrapper h2{
+    font-size:2.4em;
+  }
+}
 
 
 /* Newsletter Sign Up */
@@ -3682,7 +3687,7 @@ form .field:before, form .field:after{content:none;}
 .banner .banner__content .button:before, .banner .banner__content .button:after{content:none;}
 
 @media screen and (max-width:500px) {
-  .newsletter .inline-richtext{font-size:2.8em;}
+  .newsletter .inline-richtext{font-size:2.5em;}
   .newsletter-form__field-wrapper input.field__input{font-size:1.3em;padding:1.4em;}
   form .field label.field__label{font-size:3rem;line-height:1.15;}
 }
