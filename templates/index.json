@@ -133,9 +133,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/section_four_background_image.png",
-            "heading": "My playing leveled up in 2 weeks",
+            "heading": "My playing leveled up in two weeks!",
             "heading_size": "h1",
-            "subheading": "Customer Review, John Smith",
+            "subheading": "Geert Wijtkamp, tester",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -151,9 +151,63 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/section_four_background_image.png",
-            "heading": "Since I tried these, I can’t play with normal picks anymore",
+            "heading": "Your picking hand will thank you",
             "heading_size": "h1",
-            "subheading": "Customer Review, John Smith",
+            "subheading": "Mark Droplin, musician and tester",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_aPND7c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/section_four_background_image.png",
+            "heading": "The attack of this thing is insane!",
+            "heading_size": "h1",
+            "subheading": "Andres Bella, musician and tester",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_Jq6j3y": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/section_four_background_image.png",
+            "heading": "I just can't play with normal picks anymore",
+            "heading_size": "h1",
+            "subheading": "Pedro Navajas, tester",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_hqnGaM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/section_four_background_image.png",
+            "heading": "I need to do less effort when playing technically complex parts",
+            "heading_size": "h1",
+            "subheading": "Manny Lebowski, endorser",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -168,7 +222,10 @@
       },
       "block_order": [
         "slide_BRn4EF",
-        "slide_3RCLUf"
+        "slide_3RCLUf",
+        "slide_aPND7c",
+        "slide_Jq6j3y",
+        "slide_hqnGaM"
       ],
       "custom_css": [
 
