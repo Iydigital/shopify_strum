@@ -71,6 +71,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https://youtu.be/AZVHM7mH5UI?si=7jWJsVV6tUzjoCuJ",
+        "cover_image": "shopify://shop_images/PickTwist-KickStarter-video-thumbnail.jpg",
         "description": "PickTwist KickStarter Video",
         "full_width": false,
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
