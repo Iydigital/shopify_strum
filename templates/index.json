@@ -64,7 +64,7 @@
     "video_AAT6yJ": {
       "type": "video",
       "custom_css": [
-        ".video-section__media.media-fit-cover video {left: 0;}"
+        ".video-section .video-section__media iframe {left: 0;}"
       ],
       "settings": {
         "heading": "Our Kickstarter Campaign",
