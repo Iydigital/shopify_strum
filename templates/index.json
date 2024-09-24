@@ -15,7 +15,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted><\/video>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"\/>\n<br\/>\n<h1>The Better <br\/>Way To Play.<\/h1>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https://cdn.shopify.com/videos/c/o/v/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted></video>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"/>\n<br/>\n<h1>The Better <br/>Way To Play.</h1>\n<a href=\"\">Support our kickstarter</a>\n</div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 0,
         "padding_bottom": 0
@@ -34,7 +34,7 @@
         "text_FqKgXe": {
           "type": "text",
           "settings": {
-            "text": "<strong>TIMO SOMERS<\/strong>",
+            "text": "<strong>TIMO SOMERS</strong>",
             "text_style": "body"
           }
         }
@@ -48,7 +48,7 @@
         "@media screen and (max-width: 500px) {.banner__content {padding: 24rem 0 0 0; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/timo-somers-testimonial-background-image.jpg",
+        "image": "shopify://shop_images/timo-somers-testimonial-background-image.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
@@ -70,7 +70,7 @@
         "heading": "Our Kickstarter Campaign",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/picktwist_KS_video_01.mp4",
+        "video": "shopify://files/videos/picktwist_KS_video_01.mp4",
         "video_url": "",
         "description": "",
         "full_width": false,
@@ -83,7 +83,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"custom-video-block\">\n<!--<video width=\"1920\" height=\"1080\" autoplay>\n  <source src=\"https:\/\/player.vimeo.com\/video\/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" type=\"video\/mp4\">\n<\/video>-->\n<iframe src=\"https:\/\/player.vimeo.com\/video\/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"fullscreen; picture-in-picture; clipboard-write\" style=\"width:100vw;height:auto;\" title=\"PICKTWIST - Full - SUBENG - 4K\"><\/iframe><script src=\"https:\/\/player.vimeo.com\/api\/player.js\"><\/script>\n<h2>The Better <br\/>Way To Play.<\/h2>\n<a href=\"\">Support our kickstarter<\/a>\n<\/div>",
+        "custom_liquid": "<div class=\"custom-video-block\">\n<!--<video width=\"1920\" height=\"1080\" autoplay>\n  <source src=\"https://player.vimeo.com/video/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" type=\"video/mp4\">\n</video>-->\n<iframe src=\"https://player.vimeo.com/video/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"fullscreen; picture-in-picture; clipboard-write\" style=\"width:100vw;height:auto;\" title=\"PICKTWIST - Full - SUBENG - 4K\"></iframe><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<h2>The Better <br/>Way To Play.</h2>\n<a href=\"\">Support our kickstarter</a>\n</div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 36,
         "padding_bottom": 36
@@ -120,7 +120,7 @@
     "custom_liquid_YWiGQX": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks<\/h2>\n<div class=\"pick-product pick-product-timo\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_timo.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Timo Somers Signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-manny\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_manny.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Manny Lebowski signature<\/h3>\n<\/div>\n<div class=\"pick-product pick-product-slap\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0806\/4434\/2059\/files\/pick_product_slap.png?v=1725819421\" alt=\"pick\" \/>\n<h3>Slap Pick<\/h3>\n<\/div>\n<\/div>",
+        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks</h2>\n<div class=\"pick-product pick-product-timo\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_timo.png?v=1725819421\" alt=\"pick\" />\n<h3>Timo Somers Signature</h3>\n</div>\n<div class=\"pick-product pick-product-manny\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_manny.png?v=1725819421\" alt=\"pick\" />\n<h3>Manny Lebowski signature</h3>\n</div>\n<div class=\"pick-product pick-product-slap\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_slap.png?v=1725819421\" alt=\"pick\" />\n<h3>Slap Pick</h3>\n</div>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 0,
         "padding_bottom": 0
@@ -132,7 +132,7 @@
         "slide_BRn4EF": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/section_four_background_image.png",
+            "image": "shopify://shop_images/section_four_background_image.png",
             "heading": "My playing leveled up in 2 weeks",
             "heading_size": "h1",
             "subheading": "Customer Review, John Smith",
@@ -150,7 +150,7 @@
         "slide_3RCLUf": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/section_four_background_image.png",
+            "image": "shopify://shop_images/section_four_background_image.png",
             "heading": "Since I tried these, I can’t play with normal picks anymore",
             "heading_size": "h1",
             "subheading": "Customer Review, John Smith",
@@ -207,8 +207,8 @@
       "settings": {
         "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 64,
-        "padding_bottom": 64
+        "padding_top": 92,
+        "padding_bottom": 92
       }
     },
     "image_banner_zhMHer": {
@@ -225,7 +225,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Support our kickstarter",
-            "button_link_1": "\/",
+            "button_link_1": "/",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -237,11 +237,12 @@
         "heading_AYEqGP",
         "buttons_9KKm3V"
       ],
+      "disabled": true,
       "custom_css": [
         "{background-color: #00b2a9;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/waves_white_transparent_5percent.png",
+        "image": "shopify://shop_images/waves_white_transparent_5percent.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
