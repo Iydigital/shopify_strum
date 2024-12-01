@@ -3522,7 +3522,8 @@ details-disclosure>details {
   }
 }
 
-/* Custom CSS */
+
+/* ------------------  Custom CSS ------------------ */
 
 /* Hero */
 .custom-header{
@@ -3653,6 +3654,32 @@ div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:
   .slideshow__text-wrapper h2.h1{
     font-size:2.4em;
   }
+}
+
+/* KickStarter CTA */
+div.kickstarter-cta{
+  background:#05CE78;
+  text-align: center;
+  padding:3em 12em;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+div.kickstarter-cta h3{font-size:3em;margin:15px;}
+div.kickstarter-cta img{max-width:55%;}
+
+.kickstarter-cta a{
+  width:fit-content;
+  background: #fff; 
+  padding: 15px 20px; 
+  text-align: center; 
+  font-weight: bold; 
+  color: black; 
+  border-radius:100px; 
+  text-decoration:none; 
+  text-transform: uppercase; 
+  margin-top: 40px;
 }
 
 
