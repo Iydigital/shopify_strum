@@ -3682,6 +3682,12 @@ div.kickstarter-cta img{max-width:55%;}
   margin-top: 40px;
 }
 
+@media screen and (max-width:500px) {
+  div.kickstarter-cta{padding:2em;}
+  div.kickstarter-cta h3{line-height:1.1;margin:0 0 15px 0;}
+  div.kickstarter-cta img{max-width:100%;}
+}
+
 
 /* Newsletter Sign Up */
 form.newsletter-form, form.newsletter-form .newsletter-form__field-wrapper{max-width:100%;}
