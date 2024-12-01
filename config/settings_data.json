@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "logo": "shopify://shop_images/White.png",
@@ -141,18 +141,16 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#dfdfd8",
+          "background": "#05ce78",
           "background_gradient": "",
-          "text": "#11151c",
-          "button": "#855832",
-          "button_label": "#dfdfd8",
-          "secondary_button_label": "#855832",
+          "text": "#fff",
+          "button": "#fff",
+          "button_label": "#000000",
+          "secondary_button_label": "#fff",
           "shadow": "#11151c"
         }
       },
