@@ -15,8 +15,8 @@
         "heading_MVGKTb": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
+            "heading": "Sign up for the latest updates",
+            "heading_size": "h2"
           }
         },
         "forms_inline_zthwfg": {
@@ -42,10 +42,10 @@
         "forms_inline_zthwfg"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 40
       }
     },
     "ceb82b25-856d-41be-9c75-a5418f4d61fb": {
