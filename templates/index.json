@@ -9,6 +9,16 @@
  */
 {
   "sections": {
+    "ceb82b25-856d-41be-9c75-a5418f4d61fb": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https://cdn.shopify.com/videos/c/o/v/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted></video>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"/>\n<br/>\n<h3 style=\"max-width:40%\">A self-centering guitar pick that never slips, reduces tension buildup & stays in the ideal position.</h3>\n</div>",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_bKkYG6": {
       "type": "image-with-text",
       "blocks": {
@@ -24,7 +34,7 @@
           "type": "heading",
           "settings": {
             "heading": "A self-centering guitar pick that never slips, reduces tension buildup & stays in the ideal position.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -32,6 +42,7 @@
         "caption_6VyDWD",
         "heading_W6naEY"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/pick_product_slap.png",
         "height": "adapt",
@@ -84,17 +95,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
-      }
-    },
-    "ceb82b25-856d-41be-9c75-a5418f4d61fb": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https://cdn.shopify.com/videos/c/o/v/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted></video>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"/>\n<br/>\n<h1>The Better <br/>Way To Play.</h1>\n<a href=\"https://www.kickstarter.com/projects/picktwist/the-3d-pick-that-makes-you-better-at-guitar\" target=\"_blank\">Support our KickStarter</a>\n</div>",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "image_with_text_nwycVP": {
@@ -435,9 +435,9 @@
     }
   },
   "order": [
+    "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "image_with_text_bKkYG6",
     "newsletter_TdRQ3B",
-    "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "image_with_text_nwycVP",
     "image_banner_custom_UD73zY",
     "video_AAT6yJ",
