@@ -97,6 +97,43 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_nwycVP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rKqpyf": {
+          "type": "heading",
+          "settings": {
+            "heading": "“Finally a pick that feels natural!”",
+            "heading_size": "h1"
+          }
+        },
+        "text_BhxAgT": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>TIMO SOMERS</strong></em></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rKqpyf",
+        "text_BhxAgT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/timo-somers-testimonial-background-image.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_custom_UD73zY": {
       "type": "image-banner-custom",
       "blocks": {
@@ -124,13 +161,13 @@
         "@media screen and (max-width: 500px) {.banner__content {padding: 24rem 0 0 0; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/timo-somers-testimonial-background-image.jpg",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/timo-somers-testimonial-background-image.png",
+        "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
@@ -400,6 +437,7 @@
     "image_with_text_bKkYG6",
     "newsletter_TdRQ3B",
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
+    "image_with_text_nwycVP",
     "image_banner_custom_UD73zY",
     "video_AAT6yJ",
     "custom_liquid_xDWdm3",
