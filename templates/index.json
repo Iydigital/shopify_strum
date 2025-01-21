@@ -15,7 +15,7 @@
         "caption_6VyDWD": {
           "type": "caption",
           "settings": {
-            "caption": "Add a tagline",
+            "caption": "PickTwist",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
@@ -40,7 +40,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
@@ -320,7 +320,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class=\"kickstarter-cta\">\n<h3>We've launched our</h3>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/kickstarter_logo_white.png?v=1733054734\" />\n<a href=\"https://www.kickstarter.com/projects/picktwist/the-3d-pick-that-makes-you-better-at-guitar\" target=\"_blank\">Support our KickStarter</a>\n</div>",
-        "color_scheme": "",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 40,
         "padding_bottom": 52
       }
