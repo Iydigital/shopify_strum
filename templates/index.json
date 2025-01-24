@@ -13,8 +13,124 @@
       "type": "custom-liquid",
       "custom_css": [],
       "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https://cdn.shopify.com/videos/c/o/v/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted></video>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"/>\n<br/>\n<h1>The Better <br/>Way To Play.</h1>\n<a href=\"https://www.kickstarter.com/projects/picktwist/the-3d-pick-that-makes-you-better-at-guitar\" target=\"_blank\">Support our KickStarter</a>\n</div>",
+        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https://cdn.shopify.com/videos/c/o/v/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted></video>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"/>\n<h2 style=\"max-width:40%;font-size:2.5em;\">A self-centering guitar pick that never slips, reduces tension buildup & stays in the ideal position.</h2>\n</div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_bKkYG6": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_6VyDWD": {
+          "type": "caption",
+          "settings": {
+            "caption": "PickTwist",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_W6naEY": {
+          "type": "heading",
+          "settings": {
+            "heading": "A self-centering guitar pick that never slips, reduces tension buildup & stays in the ideal position.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "caption_6VyDWD",
+        "heading_W6naEY"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/pick_product_slap.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_TdRQ3B": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_MVGKTb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up for the latest updates",
+            "heading_size": "h2"
+          }
+        },
+        "forms_inline_zthwfg": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "305310",
+            "text_color": "#ffffff",
+            "button_background_color": "#00b2a9",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "left",
+            "form_alignment": "flex-end",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "heading_MVGKTb",
+        "forms_inline_zthwfg"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_nwycVP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rKqpyf": {
+          "type": "heading",
+          "settings": {
+            "heading": "“Finally a pick that feels natural!”",
+            "heading_size": "h1"
+          }
+        },
+        "text_BhxAgT": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>TIMO SOMERS</strong></em></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rKqpyf",
+        "text_BhxAgT"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/timo-somers-testimonial-background-image.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -46,13 +162,13 @@
         "@media screen and (max-width: 500px) {.banner__content {padding: 24rem 0 0 0; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/timo-somers-testimonial-background-image.jpg",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/timo-somers-testimonial-background-image.png",
+        "image_overlay_opacity": 60,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
@@ -61,6 +177,7 @@
     },
     "video_AAT6yJ": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         ".video-section .video-section__media iframe {left: 0;}"
       ],
@@ -241,7 +358,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class=\"kickstarter-cta\">\n<h3>We've launched our</h3>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/kickstarter_logo_white.png?v=1733054734\" />\n<a href=\"https://www.kickstarter.com/projects/picktwist/the-3d-pick-that-makes-you-better-at-guitar\" target=\"_blank\">Support our KickStarter</a>\n</div>",
-        "color_scheme": "",
+        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -319,6 +436,9 @@
   },
   "order": [
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
+    "image_with_text_bKkYG6",
+    "newsletter_TdRQ3B",
+    "image_with_text_nwycVP",
     "image_banner_custom_UD73zY",
     "video_AAT6yJ",
     "custom_liquid_xDWdm3",
