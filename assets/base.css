@@ -3544,8 +3544,9 @@ details-disclosure>details {
 }
 
 .custom-header h2 {
-  font-size: 6.6em;
-  line-height: 0.9em; 
+  max-width:45%;
+  font-size: 2.5em;
+  line-height: 1.1em; 
   padding: 0; 
   margin: 0;
 }
@@ -3579,7 +3580,7 @@ details-disclosure>details {
 @media screen and (max-width:500px) {
   .custom-header{width:100%;justify-content: end;padding-left:5%;padding-bottom:20px;height:90vh;background: linear-gradient(0deg, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, 0) 100%);}
   .custom-header h1 {font-size:4em;}
-  .custom-header h2 {font-size:1.7em;}
+  .custom-header h2 {max-width:100%;font-size:1.7em;}
   .custom-header video{object-position:74% -22vh;}
 }
 
