@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "custom_css": [],
       "settings": {
-        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https://cdn.shopify.com/videos/c/o/v/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted></video>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"/>\n<h2 style=\"max-width:40%;font-size:2.5em;\">A self-centering guitar pick that never slips, reduces tension buildup & stays in the ideal position.</h2>\n</div>",
+        "custom_liquid": "<div class=\"custom-header\">\n<video src=\"https://cdn.shopify.com/videos/c/o/v/4fd27869fcce496eae2e543673d32c94.mp4\" autoplay loop playsinline muted></video>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/White.png?v=1693935243\" width=\"200px\" alt=\"logo\"/>\n<h2>A self-centering guitar pick that never slips, reduces tension buildup & stays in the ideal position.</h2>\n</div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 0,
         "padding_bottom": 0
