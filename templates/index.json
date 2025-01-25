@@ -356,6 +356,7 @@
     },
     "custom_liquid_ixFgr9": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"kickstarter-cta\">\n<h3>We've launched our</h3>\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/kickstarter_logo_white.png?v=1733054734\" />\n<a href=\"https://www.kickstarter.com/projects/picktwist/the-3d-pick-that-makes-you-better-at-guitar\" target=\"_blank\">Support our KickStarter</a>\n</div>",
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
