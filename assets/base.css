@@ -3736,3 +3736,15 @@ form .field:before, form .field:after{content:none;}
   .newsletter-form__field-wrapper input.field__input{font-size:1.3em;padding:1.4em;}
   form .field label.field__label{font-size:3rem;line-height:1.15;}
 }
+
+
+/* Email Sign Up */
+.newsletter__wrapper{display:flex;text-align:left;font-size:2.6em;}
+.newsletter__wrapper h2.inline-richtext{width:50%;text-align: left; font-size:2.6em;}
+.newsletter__wrapper #shopify-block-AQ2w5UDl3THdFb0Fqc__forms_inline_zthwfg{
+  width:fit-content;
+}
+
+._formFieldset_1ll8d_67 input._formInputField_237zm_7, ._formFieldset_1ll8d_67 ._selectToggle_1yit2_25, ._formFieldset_1ll8d_67 button._formSubmitButton_1ll8d_81{
+  border-radius: 100px;
+}
