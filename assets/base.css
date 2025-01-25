@@ -3637,12 +3637,15 @@ div.explore-picks{
   background-size:cover;
 }
 div.explore-picks h2{font-size:5em;margin:0;}
-div.explore-picks h3{font-size:3.4em;position:absolute;left:0;right:0;max-width:14em;margin:0 auto;}
+div.explore-picks h3{
+  /* font-size:3.4em;position:absolute;left:0;right:0;max-width:14em;*/margin:0 auto;
+}
 .explore-picks .pick-product{
   /* display:flex;
   flex-direction: row;
   align-items:center; */
   display: inline-block;
+  width:33%;
 }
 /* .explore-picks .pick-product.pick-product-manny{flex-direction: row-reverse;margin:-260px 0;} */
 .explore-picks .pick-product img{
