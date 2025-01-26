@@ -3640,6 +3640,7 @@ div.explore-picks h2{font-size:5em;margin:0;}
 div.explore-picks h3{
   /* font-size:3.4em;position:absolute;left:0;right:0;max-width:14em;*/margin:0 auto;
 }
+div.pick-products{display:flex;}
 .explore-picks .pick-product{
   /* display:flex;
   flex-direction: row;
@@ -3665,6 +3666,7 @@ div.explore-picks h3{
 .slideshow__controls{background:#00B2A9;}
 .slider-button.slider-button--prev .icon, .slider-button.slider-button--next .icon{height:1.2rem;}
 .slider-counter.caption{font-size:1.7rem;}
+.slideshow__text.banner__box.content-container{max-width:90%;}
 
 @media screen and (max-width:500px) {
   .slideshow__text-wrapper h2.h1{
