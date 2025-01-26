@@ -235,7 +235,7 @@
     "custom_liquid_YWiGQX": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks</h2>\n<div class=\"pick-product pick-product-timo\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_timo.png?v=1725819421\" alt=\"pick\" />\n<h3>Timo Somers Signature</h3>\n</div>\n<div class=\"pick-product pick-product-manny\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_manny.png?v=1725819421\" alt=\"pick\" />\n<h3>Manny Lebowski signature</h3>\n</div>\n<div class=\"pick-product pick-product-slap\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_slap.png?v=1725819421\" alt=\"pick\" />\n<h3>Slap Pick</h3>\n</div>\n</div>",
+        "custom_liquid": "<div class=\"explore-picks\">\n<h2>Explore our picks</h2>\n<div class=\"pick-products\">\n<div class=\"pick-product pick-product-timo\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_timo.png?v=1725819421\" alt=\"pick\" />\n<h3>Timo Somers Signature</h3>\n</div>\n<div class=\"pick-product pick-product-manny\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_manny.png?v=1725819421\" alt=\"pick\" />\n<h3>Manny Lebowski signature</h3>\n</div>\n<div class=\"pick-product pick-product-slap\">\n<img src=\"https://cdn.shopify.com/s/files/1/0806/4434/2059/files/pick_product_slap.png?v=1725819421\" alt=\"pick\" />\n<h3>Slap Pick</h3>\n</div>\n</div>\n</div>",
         "color_scheme": "inverse",
         "padding_top": 0,
         "padding_bottom": 0
@@ -364,6 +364,45 @@
         "padding_bottom": 52
       }
     },
+    "newsletter_WYqXr3": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_43WfhH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up for the latest updates",
+            "heading_size": "h2"
+          }
+        },
+        "forms_inline_8pdXK4": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "305310",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_label_color": "#000000",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "left",
+            "form_alignment": "flex-end",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "heading_43WfhH",
+        "forms_inline_8pdXK4"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "newsletter_mA7FTj": {
       "type": "newsletter",
       "blocks": {
@@ -448,6 +487,7 @@
     "custom_liquid_YWiGQX",
     "slideshow_thT8YR",
     "custom_liquid_ixFgr9",
+    "newsletter_WYqXr3",
     "newsletter_mA7FTj",
     "image_banner_zhMHer"
   ]
