@@ -3545,7 +3545,7 @@ details-disclosure>details {
 
 .custom-header h2 {
   max-width:45%;
-  font-size: 2.5em;
+  font-size: 3em;
   line-height: 1.1em; 
   padding: 0; 
   margin: 0;
@@ -3575,6 +3575,10 @@ details-disclosure>details {
 }
 .gradient:has(.custom-header){
   background: none !important;
+}
+
+@media screen and (max-width:1366px) {
+  .custom-header h2 {font-size:2.2em;}
 }
 
 @media screen and (max-width:500px) {
