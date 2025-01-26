@@ -3660,6 +3660,9 @@ div.pick-products{display:flex;}
   .explore-picks .pick-product img{width:100%;}
   .explore-picks .pick-product,.explore-picks .pick-product.pick-product-manny{flex-direction: column-reverse;}
   .explore-picks .pick-product.pick-product-manny{margin:-20px 0;}
+
+  div.pick-products{flex-direction: column;}
+  div.pick-products .pick-product{width: 100%;}
 }
 
 /* Testimonials */
