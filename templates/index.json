@@ -19,45 +19,6 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_bKkYG6": {
-      "type": "image-with-text",
-      "blocks": {
-        "caption_6VyDWD": {
-          "type": "caption",
-          "settings": {
-            "caption": "PickTwist",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "heading_W6naEY": {
-          "type": "heading",
-          "settings": {
-            "heading": "A self-centering guitar pick that never slips, reduces tension buildup & stays in the ideal position.",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "caption_6VyDWD",
-        "heading_W6naEY"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/pick_product_slap.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "newsletter_TdRQ3B": {
       "type": "newsletter",
       "blocks": {
@@ -477,7 +438,6 @@
   },
   "order": [
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
-    "image_with_text_bKkYG6",
     "newsletter_TdRQ3B",
     "image_with_text_nwycVP",
     "image_banner_custom_UD73zY",
