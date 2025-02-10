@@ -25,18 +25,31 @@
         "heading_CCczbT": {
           "type": "heading",
           "settings": {
-            "heading": "Sign up to our mailing list for the latest updates",
-            "heading_size": "h0"
+            "heading": "Sign up for the latest updates",
+            "heading_size": "h2"
           }
         },
-        "email_form_yw6hiY": {
-          "type": "email_form",
-          "settings": {}
+        "forms_inline_zkLX9k": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "305310",
+            "text_color": "#ffffff",
+            "button_background_color": "#00b2a9",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "left",
+            "form_alignment": "flex-end",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
         }
       },
       "block_order": [
         "heading_CCczbT",
-        "email_form_yw6hiY"
+        "forms_inline_zkLX9k"
       ],
       "settings": {
         "color_scheme": "inverse",
