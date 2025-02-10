@@ -58,44 +58,6 @@
         "padding_bottom": 40
       }
     },
-    "image_with_text_nwycVP": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_rKqpyf": {
-          "type": "heading",
-          "settings": {
-            "heading": "“Finally a pick that feels natural!”",
-            "heading_size": "h1"
-          }
-        },
-        "text_BhxAgT": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em><strong>TIMO SOMERS</strong></em></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rKqpyf",
-        "text_BhxAgT"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/timo-somers-testimonial-background-image.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_banner_custom_UD73zY": {
       "type": "image-banner-custom",
       "blocks": {
@@ -153,44 +115,6 @@
         "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
         "padding_top": 36,
         "padding_bottom": 0
-      }
-    },
-    "custom_liquid_xDWdm3": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"custom-video-block\">\n<!--<video width=\"1920\" height=\"1080\" autoplay>\n  <source src=\"https://player.vimeo.com/video/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" type=\"video/mp4\">\n</video>-->\n<iframe src=\"https://player.vimeo.com/video/1000816158?h=c90b0ab1f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"fullscreen; picture-in-picture; clipboard-write\" style=\"width:100vw;height:auto;\" title=\"PICKTWIST - Full - SUBENG - 4K\"></iframe><script src=\"https://player.vimeo.com/api/player.js\"></script>\n<h2>The Better <br/>Way To Play.</h2>\n<a href=\"\">Support our kickstarter</a>\n</div>",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_D7QeHt": {
-      "type": "rich-text",
-      "blocks": {
-        "button_mACrx4": {
-          "type": "button",
-          "settings": {
-            "button_label": "Support our Kickstarter",
-            "button_link": "#",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button_mACrx4"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 100
       }
     },
     "custom_liquid_YWiGQX": {
@@ -363,92 +287,16 @@
         "padding_top": 40,
         "padding_bottom": 40
       }
-    },
-    "newsletter_mA7FTj": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_CCczbT": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sign up to our mailing list for the latest updates",
-            "heading_size": "h0"
-          }
-        },
-        "email_form_yw6hiY": {
-          "type": "email_form",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_CCczbT",
-        "email_form_yw6hiY"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 92,
-        "padding_bottom": 92
-      }
-    },
-    "image_banner_zhMHer": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_AYEqGP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Want to get involved?",
-            "heading_size": "h0"
-          }
-        },
-        "buttons_9KKm3V": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Support our kickstarter",
-            "button_link_1": "/",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_AYEqGP",
-        "buttons_9KKm3V"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "{background-color: #00b2a9;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/waves_white_transparent_5percent.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
     }
   },
   "order": [
     "ceb82b25-856d-41be-9c75-a5418f4d61fb",
     "newsletter_TdRQ3B",
-    "image_with_text_nwycVP",
     "image_banner_custom_UD73zY",
     "video_AAT6yJ",
-    "custom_liquid_xDWdm3",
-    "rich_text_D7QeHt",
     "custom_liquid_YWiGQX",
     "slideshow_thT8YR",
     "custom_liquid_ixFgr9",
-    "newsletter_WYqXr3",
-    "newsletter_mA7FTj",
-    "image_banner_zhMHer"
+    "newsletter_WYqXr3"
   ]
 }
