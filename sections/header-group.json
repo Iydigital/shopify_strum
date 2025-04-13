@@ -38,6 +38,7 @@
     },
     "header": {
       "type": "header",
+      "disabled": true,
       "custom_css": [
         ".header {padding: 1% 0;}"
       ],
