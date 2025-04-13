@@ -38,7 +38,6 @@
     },
     "header": {
       "type": "header",
-      "disabled": true,
       "custom_css": [
         ".header {padding: 1% 0;}"
       ],
@@ -48,7 +47,7 @@
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "none",
         "show_line_separator": false,
-        "color_scheme": "scheme-54b4f4c5-9852-43c6-8f29-240e106e30ec",
+        "color_scheme": "background-1",
         "menu_color_scheme": "inverse",
         "enable_country_selector": true,
         "enable_language_selector": true,
